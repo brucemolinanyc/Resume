@@ -1,56 +1,41 @@
 {
   "main": {
-    "name":"Gregory Stannard",
+    "name":"Bruce Molina",
     "occupation":"Full Stack Web Developer/Programmer",
-    "description":"I develop and design web applications for startups and large companies",
+    "description":"An analytical and adaptable Web Designer seeking a Backend Developer position that will allow me to utilize scripting languages like Python, Ruby and Node.JS to deliver complex web applications and seamless solutions for end-users.",
     "image":"profilepic.jpg",
     "bio":"Born and raised in NYC, I grew up around technology.  My father ran a web development company when I was around 12 and have been a computer-geek ever since (and proud of it).  I am also a mechanical keyboard enthusiast.  I build and use my creations as tools to enhance my development skills.  You can see some of the keyboards I have built in in the Project section of my website.  As far as web programming/development, I am mainly proficient in Python, JavaScript/React HTML and CSS.  I regularly use them as well as other modules/libraries such as MatPlotLib, Pandas, Numpy and Seaborn.  I have also been studying Sentiment Analysis, and my LivingNovel.io application puts python modules such as NLTK and Vader to great use.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "stannardg@gmail.com",
-    "phone": "561-891-7983",
+    "email": "bruce.d.molina@gmail.com",
+    "phone": "917-576-9762",
     "address":{
-      "street":"(Your Street)",
+      "street":"32-68 44th Street Apt 3F",
       "city":"New York",
       "state":"NY",
-      "zip": "10301"
+      "zip": "10003"
     },
     "website": "http://www.gregstannard.com",
     "resumedownload":"http://gregstannard.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/Gregory9000",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"twitter",
         "url":"http://twitter.com",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/gregory-stannard",
+        "url":"https://www.linkedin.com/in/brucemolina",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"",
+        "url":"https://www.instagram.com/bruce_molina/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/Allegedly-Gregory",
+        "url":"https://github.com/brucemolinanyc",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"",
-        "className":"fa fa-skype"
       }
     ]
   },
