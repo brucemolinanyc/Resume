@@ -2,9 +2,9 @@
   "main": {
     "name":"Bruce Molina",
     "occupation":"Full Stack Web Developer/Programmer",
-    "description":"An analytical and adaptable Web Designer seeking a Backend Developer position that will allow me to utilize scripting languages like Python, Ruby and Node.JS to deliver complex web applications and seamless solutions for end-users.",
+    "description":"I am an analytical and adaptable Web Designer seeking a Backend Developer position that will allow me to utilize scripting languages like Python, Ruby and Node.JS to deliver complex web applications and seamless solutions for end-users.",
     "image":"profilepic.jpg",
-    "bio":"Born and raised in NYC, I grew up around technology.  My father ran a web development company when I was around 12 and have been a computer-geek ever since (and proud of it).  I am also a mechanical keyboard enthusiast.  I build and use my creations as tools to enhance my development skills.  You can see some of the keyboards I have built in in the Project section of my website.  As far as web programming/development, I am mainly proficient in Python, JavaScript/React HTML and CSS.  I regularly use them as well as other modules/libraries such as MatPlotLib, Pandas, Numpy and Seaborn.  I have also been studying Sentiment Analysis, and my LivingNovel.io application puts python modules such as NLTK and Vader to great use.",
+    "bio":"Born and raised in NYC, I grew up around technology.  My father was an engineer who built small machines and computers and I was always intrigued by his ingenuity in learning new tech. Through my father, I inherited a passion for tech as well as discipline and a keen attention to detail which has flourished through web development. Through code, I get to flex my brain in the most rewarding way! I find myself hooked on the challenge and the rewards of solving problems elegantly and algorithmically. I am mainly proficient in Python, JavaScript/React HTML and CSS.  I regularly use these as well as other modules/libraries such as Pandas, and Numpy.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "bruce.d.molina@gmail.com",
     "phone": "917-576-9762",
@@ -44,39 +44,45 @@
     "education":[
       {
         "school":"Byte Academy",
-        "degree":"Full Stack Development",
-        "graduated":"March 18, 2019",
-        "description":"Learned to develop web/applications with Python, React, JavaScript, HTML, CSS."
+        "degree":"Full Stack Python Web Development Immersive Certificate",
+        "graduated":"June, 2019",
+        "description":"Developed scalable web applications through over 450 hours of solo and collaborative classwork"
       },
       {
-        "school":"Pace University",
+        "school":"New York University",
         "degree":"BS in Finance",
-        "graduated":"March 2006",
-        "description":"Coursework in Financial and Managerial Accounting, Financial Analysis, Financial Management, Econometrics, Options, Swaps and Futures."
+        "graduated":"September, 2003",
+        "description":"Coursework in Broadcast Journalism, Finance, Mathematics, Psychology and Computer Science."
       }
     ],
     "work":[
       {
-        "company":"Company 1",
-        "title":"Title",
-        "years":"From x to x",
-        "description":"Description 1"
+        "company":"Byte Academy",
+        "title":"Fullstack Python Web Developer",
+        "years":"From Feb. '19 to Jun. '19",
+        "description":"Designed and developed fullstack web applications using technologies including Python, Pandas, Numpy, SQLite, Javascript, CSS and React. Collaborated with other developers via Github to establish workflows."
       },
       {
-        "company":"Company 2",
-        "title":"Title for Company 2",
-        "years":"From x to x",
-        "description":"Description 2"
+        "company":"Google",
+        "title":"Community Manager - Local Guides Connect",
+        "years":"From Jun. '17 to Dec. '18",
+        "description":"Key influencer on the Local Guides team; leading project management efforts in spam fighting, analytics projects and KPI reporting for the Local Guides community and Local Guides Connect website."
+      },
+      {
+        "company":"Euromoney Institutional Investor PLC",
+        "title":"Audience Development/Ad Ops Manager",
+        "years":"From Jan. '16 to Jun. '17",
+        "description":"Lead all Institutional Investor Journals marketing and advertising campaigns including lead engagement, customer nurturing, retention and new business acquisition."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"ReactJs",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"JavaScript",
@@ -88,47 +94,43 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"Illustrator/Photoshop",
-        "level":"85%"
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"LivingNovel.io",
-        "category":"Sentiment Analysis",
+        "title":"Terminal Trader",
+        "category":"Stock Market Analysis",
         "image":"livingnovel.png",
         "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"PoliDex",
+        "category":"Voter Registration",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Vivify",
+        "category":"Small Business Assistant",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Expensify",
+        "category":"Expense tracker",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Indecision",
+        "category":"Manage your to-do list",
         "image":"smirkspace.jpg",
         "url":"http://www.smirkspace.com"
       }
