@@ -73,8 +73,10 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #F06000;
+   color: crimson;
 }
+
+
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
@@ -95,7 +97,8 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color:#F06000 }
+header .social li a:hover { color:crimson; }
+
 
 /* scrolldown link */
 header .scrolldown a {
@@ -117,7 +120,8 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: crimson; }
+/* #11ABB0 */
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -179,7 +183,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color:crimson; }
 
 
 /* ------------------------------------------------------------------ */
@@ -977,8 +981,10 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: crimson;
 }
+
+/* #F06000 */
 
 footer .social-links li:first-child { margin-left: 0; }
 
