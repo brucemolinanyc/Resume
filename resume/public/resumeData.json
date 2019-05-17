@@ -8,12 +8,6 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "bruce.d.molina@gmail.com",
     "phone": "917-576-9762",
-    "address":{
-      "street":"32-68 44th Street Apt 3F",
-      "city":"New York",
-      "state":"NY",
-      "zip": "10003"
-    },
     "website": "http://www.brucemolina.com",
     "resumedownload": "/resume.pdf",
     "social":[
