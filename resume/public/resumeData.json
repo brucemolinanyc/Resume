@@ -40,13 +40,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"The following are a list of my core competencies",
+    "skillmessage":"The following are a list of my core competencies:",
     "education":[
       {
         "school":"Byte Academy",
         "degree":"Full Stack Python Web Development Immersive Certificate",
         "graduated":"June, 2019",
-        "description":"Developed scalable web applications through over 450 hours of solo and collaborative classwork"
+        "description":"Developed scalable web applications through over 450 hours of solo and collaborative classwork."
       },
       {
         "school":"New York University",
