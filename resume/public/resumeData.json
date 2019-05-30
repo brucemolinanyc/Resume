@@ -2,7 +2,7 @@
   "main": {
     "name":"Bruce Molina",
     "occupation":"Full Stack Web Developer/Programmer",
-    "description":"I am an analytical and adaptable Web Designer seeking a Backend Developer position that will allow me to utilize scripting languages like Python, Ruby and Node.JS to deliver complex web applications and seamless solutions for end-users.",
+    "description": "I am an analytical and adaptable Web Designer seeking a Fullstack Developer position that will allow me to utilize scripting languages and frameworks like Python, Ruby and React to deliver complex web applications and seamless solutions for end-users",
     "image":"profilepic.jpg",
     "bio":"Born and raised in NYC, I grew up around technology.  My father was an engineer who built small electronic devices and I was always intrigued by his ingenuity in learning new tech. Through my father, I inherited a passion for tech as well as a focused discipline and a keen attention to detail which has flourished through web development. Through code, I get to flex my brain in the most rewarding way! I find myself hooked on the challenge and the rewards of solving problems elegantly and algorithmically. I am mainly proficient in Python, JavaScript/React HTML and CSS.  I regularly use these as well as other modules/libraries such as Pandas, and Numpy. I'm also a lover of all animals and especially cats!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -18,24 +18,19 @@
     "resumedownload": "/resume.pdf",
     "social":[
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/brucemolina",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/bruce_molina/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/brucemolinanyc",
         "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/bruce_molina/",
+        "className":"fa fa-instagram"
       }
     ]
   },
@@ -81,6 +76,10 @@
         "level":"70%"
       },
       {
+        "name":"Ruby on Rails",
+        "level":"70%"
+      },
+      {
         "name":"ReactJs",
         "level":"80%"
       },
@@ -108,25 +107,13 @@
         "title":"Terminal Trader",
         "category":"Stock Market Analysis",
         "image":"livingnovel.png",
-        "url":"https://terminal-trader.netlify.com/"
-      },
-      {
-        "title":"PoliDex",
-        "category":"Voter Registration",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Vivify",
-        "category":"Small Business Assistant",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://165.22.5.77"
       },
       {
         "title":"Expensify",
         "category":"Expense tracker",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://react-redux-expenses-app.herokuapp.com/"
       },
       {
         "title":"Indecision",

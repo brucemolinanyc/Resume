@@ -30,10 +30,6 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
@@ -55,3 +51,16 @@ class About extends Component {
 }
 
 export default About;
+
+
+// <div className="columns contact-details">
+// <h2>Contact Details</h2>
+// <p className="address">
+//    <span>{name}</span><br />
+//    <span>{street}<br />
+//          {city} {state}, {zip}
+//  </span><br />
+//    <span>{phone}</span><br />
+//    <span>{email}</span>
+// </p>
+// </div>
