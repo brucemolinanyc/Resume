@@ -105,7 +105,7 @@
     "projects": [
       {
         "title":"Terminal Trader",
-        "category":"Stock Market Analysis",
+        "category":"Stock Market Playground",
         "image":"terminaltrader.jpg",
         "url":"http://165.22.5.77"
       },

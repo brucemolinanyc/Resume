@@ -497,6 +497,8 @@ ul#nav li.current a { color:crimson; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   height: 150px;
+   width: 250px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
