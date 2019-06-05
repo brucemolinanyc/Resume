@@ -55,7 +55,7 @@
         "company":"Byte Academy",
         "title":"Fullstack Python Web Developer",
         "years":"From Feb. '19 to Jun. '19",
-        "description":"Designed and developed fullstack web applications using technologies including Python, Pandas, Numpy, SQLite, Javascript, CSS and React. Collaborated with other developers via Github to establish workflows."
+        "description":"Designed and developed fullstack web applications using technologies including Python, Pandas, Numpy, SQLite, Javascript, CSS and React. Collaborated with other developers via Github to establish workflows. Designed and developed complex applications and developed a strong understanding of the Software Development Life Cycle and system design."
       },
       {
         "company":"Google",
@@ -116,10 +116,10 @@
         "url":"https://bm-react-redux-expenses-app.herokuapp.com/"
       },
       {
-        "title":"Indecision",
+        "title":"Decision Maker",
         "category":"Manage your to-do list",
-        "image":"indecision.jpg",
-        "url":"https://bm-indecision-app-react.herokuapp.com/"
+        "image":"decision-maker.jpg",
+        "url":"https://bm-decision-maker-react.herokuapp.com/"
       }
     ]
   },
