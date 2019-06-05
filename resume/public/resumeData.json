@@ -113,7 +113,7 @@
         "title":"Expensify",
         "category":"Expense tracker",
         "image":"expensify.jpg",
-        "url":"https://react-redux-expenses-app.herokuapp.com/"
+        "url":"https://bm-react-redux-expenses-app.herokuapp.com/"
       },
       {
         "title":"Indecision",
