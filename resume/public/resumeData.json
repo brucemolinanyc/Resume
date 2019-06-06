@@ -105,19 +105,19 @@
     "projects": [
       {
         "title":"Expensify",
-        "category":"Expense tracker",
+        "category":"Expense tracker - Built with React, Redux, Firebase",
         "image":"expensify.jpg",
         "url":"https://bm-react-redux-expenses-app.herokuapp.com/"
       },
       {
         "title":"Decision Maker",
-        "category":"Manage your to-do list",
+        "category":"Manage your to-do list - Built with React, Javascript",
         "image":"decision-maker.jpg",
         "url":"https://bm-decision-maker-react.herokuapp.com/"
       },
       {
         "title":"Terminal Trader",
-        "category":"Stock Market Playground",
+        "category":"Stock Market Playground - Built with Python, Flask, React",
         "image":"terminaltrader.jpg",
         "url":"http://165.22.5.77"
       }
