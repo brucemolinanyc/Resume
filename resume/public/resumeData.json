@@ -104,12 +104,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Terminal Trader",
-        "category":"Stock Market Playground",
-        "image":"terminaltrader.jpg",
-        "url":"http://165.22.5.77"
-      },
-      {
         "title":"Expensify",
         "category":"Expense tracker",
         "image":"expensify.jpg",
@@ -120,6 +114,12 @@
         "category":"Manage your to-do list",
         "image":"decision-maker.jpg",
         "url":"https://bm-decision-maker-react.herokuapp.com/"
+      },
+      {
+        "title":"Terminal Trader",
+        "category":"Stock Market Playground",
+        "image":"terminaltrader.jpg",
+        "url":"http://165.22.5.77"
       }
     ]
   },
