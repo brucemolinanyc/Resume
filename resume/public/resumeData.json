@@ -116,6 +116,12 @@
         "url":"https://bm-decision-maker-react.herokuapp.com/"
       },
       {
+        "title":"Movie Search",
+        "category":"Synopsis and info about your favorite films",
+        "image":"moviesearch.png",
+        "url":"https://moviesearch-api-bm.herokuapp.com/"
+      },
+      {
         "title":"Terminal Trader",
         "category":"Stock Market Playground - Built with Python, Flask, React",
         "image":"terminaltrader.jpg",
