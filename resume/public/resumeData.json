@@ -120,12 +120,6 @@
         "category":"Synopsis and info about your favorite films",
         "image":"moviesearch.png",
         "url":"https://moviesearch-api-bm.herokuapp.com/"
-      },
-      {
-        "title":"Terminal Trader",
-        "category":"Stock Market Playground - Built with Python, Flask, React",
-        "image":"terminaltrader.jpg",
-        "url":"http://165.22.5.77"
       }
     ]
   },
@@ -142,3 +136,5 @@
     ]
   }
 }
+
+
