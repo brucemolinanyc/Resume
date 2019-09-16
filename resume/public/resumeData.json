@@ -116,16 +116,16 @@
         "url":"https://bm-decision-maker-react.herokuapp.com/"
       },
       {
-        "title":"Movie Search",
-        "category":"Synopsis and info about your favorite films",
-        "image":"moviesearch.png",
-        "url":"https://moviesearch-api-bm.herokuapp.com/"
-      },
-      {
         "title": "Weather API",
         "category": "Basic Node.JS weather service",
         "image": "weather.jpg",
         "url": "https://bm-node3-weather-externalapi.herokuapp.com"
+      },
+      {
+        "title":"Movie Search",
+        "category":"Synopsis and info about your favorite films",
+        "image":"moviesearch.png",
+        "url":"https://moviesearch-api-bm.herokuapp.com/"
       }
     ]
   },
