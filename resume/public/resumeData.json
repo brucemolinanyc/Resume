@@ -2,7 +2,7 @@
   "main": {
     "name":"Bruce Molina",
     "occupation":"Full Stack Web Developer/Programmer",
-    "description": "Analytical and adaptable Web Designer seeking a Backend Software Developer position that will allow me to utilize scripting languages and front-end frameworks to deliver complex web applications and provide seamless solutions for end-users",
+    "description": "Analytical and adaptable Web Developer seeking a Frontend Engineer position that will allow me to utilize scripting languages and front-end frameworks to deliver complex web applications and process optimization for end-users.",
     "image":"profilepic.jpg",
     "bio":"Born and raised in NYC, I grew up around technology.  My father was an engineer who built small electronic devices and I was always intrigued by his ingenuity in learning new tech. Through my father, I inherited a passion for tech as well as a focused discipline and a keen attention to detail which has flourished through web development. Through code, I get to flex my brain in the most rewarding way! I find myself hooked on the challenge and the rewards of solving problems elegantly and algorithmically. I am mainly proficient in Python, JavaScript/React HTML and CSS.  I regularly use these as well as other modules/libraries such as Pandas, and Numpy. I'm also a lover of all animals and especially cats!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -51,6 +51,12 @@
       }
     ],
     "work":[
+       {
+        "company":"Spryte Labs",
+        "title":"Software Developer",
+        "years":"From August. '19 to Present",
+        "description":"Develop, refactor and maintain code for a sprint based technology company using agile methodologies. Develop back-end database queries for the product using SQL while also building RESTful APIs and web services using Python, and Node.JS."
+      },
       {
         "company":"Byte Academy",
         "title":"Fullstack Python Web Developer",
